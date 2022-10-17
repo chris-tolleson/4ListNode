@@ -1,0 +1,7 @@
+organization=vel
+projectKey=testClangFeatures
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.33560
+dashboardUrl=https://sonarcloud.io/dashboard?id=testClangFeatures
+ceTaskId=AYPnAJ9ntQZaP3iEPNCp
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYPnAJ9ntQZaP3iEPNCp
